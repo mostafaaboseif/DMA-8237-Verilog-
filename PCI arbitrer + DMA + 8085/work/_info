@@ -1,0 +1,161 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vaaaatb
+Z0 !s110 1576967876
+!i10b 1
+!s100 f17fgz:^OiSY@8=C^mEBX1
+ITE305^jCd;>l_b;>jjlND1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/Projects/DMA-with-PCI-arbitration
+w1576723964
+8E:/Projects/DMA-with-PCI-arbitration/tbPci.v
+FE:/Projects/DMA-with-PCI-arbitration/tbPci.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1576967876.000000
+!s107 E:/Projects/DMA-with-PCI-arbitration/tbPci.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Projects/DMA-with-PCI-arbitration/tbPci.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vARBITRER
+Z6 !s110 1576967877
+!i10b 1
+!s100 zcSWSOU[2OGIjK]9i1j[Q3
+I7a2j>kQ5BA;5RIeN=7nQj2
+R1
+R2
+w1576783572
+8E:/Projects/DMA-with-PCI-arbitration/PCI_arbiter.v
+FE:/Projects/DMA-with-PCI-arbitration/PCI_arbiter.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1576967877.000000
+!s107 E:/Projects/DMA-with-PCI-arbitration/PCI_arbiter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Projects/DMA-with-PCI-arbitration/PCI_arbiter.v|
+!s101 -O0
+!i113 1
+R5
+n@a@r@b@i@t@r@e@r
+vDMA
+R6
+!i10b 1
+!s100 ?M7@=FbBMloC9OkWnOai[3
+IUZ_W@mnYKV@c=IR]oidi^3
+R1
+R2
+w1576753664
+8E:/Projects/DMA-with-PCI-arbitration/DMA.v
+FE:/Projects/DMA-with-PCI-arbitration/DMA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/Projects/DMA-with-PCI-arbitration/DMA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Projects/DMA-with-PCI-arbitration/DMA.v|
+!s101 -O0
+!i113 1
+R5
+n@d@m@a
+vIO
+R6
+!i10b 1
+!s100 N1B=lZZe^fW>h4kX5gNGb2
+I:G^dD;M5JXB`li@JOSj;D0
+R1
+R2
+Z8 w1576412520
+8E:/Projects/DMA-with-PCI-arbitration/IO.v
+FE:/Projects/DMA-with-PCI-arbitration/IO.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 E:/Projects/DMA-with-PCI-arbitration/IO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Projects/DMA-with-PCI-arbitration/IO.v|
+!s101 -O0
+!i113 1
+R5
+n@i@o
+vmips
+R6
+!i10b 1
+!s100 DjKSUcZQRjWY?_T4cYh<B0
+IBec[6lGd8iV:@`klco1>E1
+R1
+R2
+R8
+8E:/Projects/DMA-with-PCI-arbitration/processor.v
+FE:/Projects/DMA-with-PCI-arbitration/processor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 E:/Projects/DMA-with-PCI-arbitration/processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Projects/DMA-with-PCI-arbitration/processor.v|
+!s101 -O0
+!i113 1
+R5
+vRAM
+R6
+!i10b 1
+!s100 K1[`b^Z`W5@W]<<LalYC61
+IQ1EB;@TgiZ[S73AFlR2C<0
+R1
+R2
+w1576840130
+8E:/Projects/DMA-with-PCI-arbitration/RAM.v
+FE:/Projects/DMA-with-PCI-arbitration/RAM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 E:/Projects/DMA-with-PCI-arbitration/RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Projects/DMA-with-PCI-arbitration/RAM.v|
+!s101 -O0
+!i113 1
+R5
+n@r@a@m
+vvirtual_8085
+R0
+!i10b 1
+!s100 5]8nF4kF5cJ=gnD=1=:Hz3
+IH1Fe?Lg<hPoMolCVQ>M]j0
+R1
+R2
+w1576840102
+8E:/Projects/DMA-with-PCI-arbitration/8085p.v
+FE:/Projects/DMA-with-PCI-arbitration/8085p.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/Projects/DMA-with-PCI-arbitration/8085p.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Projects/DMA-with-PCI-arbitration/8085p.v|
+!s101 -O0
+!i113 1
+R5
